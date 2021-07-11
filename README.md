@@ -34,6 +34,6 @@ The audit confirmed that Diana DeGette was the winner with 272,892 votes, taking
 
 ![Questions6_8_PyPoll_Challenge_Answers](Questions6_8_PyPoll_Challenge_Answers.png)
 
-
+v
 ## Challenge Summary
 The combination of tools utilized here is 

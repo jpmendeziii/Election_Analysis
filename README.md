@@ -11,7 +11,7 @@ In this audit, the following objectives are listed below:
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.58.1
+- Software: Python 3.7.6, Visual Studio Code, 1.58.1, GitBash 2.32.0
 ## Election-Audit Results
 
 ### Summary of Audit Results

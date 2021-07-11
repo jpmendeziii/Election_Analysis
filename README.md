@@ -57,4 +57,4 @@ Initialize a variable, like the winning_count variable, that will hold the numbe
 ![Questions6_8_PyPoll_Challenge_Answers](Questions6_8_PyPoll_Challenge_Answers.png)
 
 ## Challenge Summary
-The combination of software tools utilized in this audit are extremely powerful and can assist with elections of a much larger scale.  Furthermore, if there is more raw data available about the voter such as race, age, sex, geographic location within their respective county, we could get an even more enhanced dashboard of the voting dynamics and it is relatively attainable with these tools.
+There are some limitations with the data set - we are unable to discern how high or low the voter turnout was due to lack of census population data.  However, the combination of software tools utilized in this audit are extremely powerful and can assist with elections of a much larger scale if necessary.  Furthermore, if there is more raw data available about the voter such as race, age, sex, geographic location within their respective county, we could get an even more enhanced dashboard of the voting dynamics and it is relatively attainable with these tools.

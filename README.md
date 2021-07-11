@@ -28,7 +28,7 @@ The audit confirmed that Diana DeGette was the winner with 272,892 votes, taking
 
 ## Challenge Overview
 ### The PyPoll_Challenge - Election Commission Requests
-Below are snapshots of the python code required to complete the election commissions request and the steps required to fulfill each part of the challenge.
+Below are snapshots of the python code required to complete the election commission's request and the steps required to fulfill each part of the challenge.
 
 - Step 1:  Initialize a county list, like the candidate_options list, that will hold the names of the counties.
 Initialize a dictionary, like the candidate_votes dictionary, that will hold the county as the key and the votes cast for each county as the values.

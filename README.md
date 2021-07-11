@@ -12,7 +12,7 @@
     • Software: Python 3.6.1, Visual Studio Code, 1.38.1
 ## Summary
 
-### The analysis of the election show that:
+### Here are the results of the Election Audit below:
 ![Election_Results_Final.png](Election_Results_Final.png)
 
     • There were “x” votes cast in the election.

@@ -17,7 +17,14 @@ In this audit, the following objectives are listed below:
 ### Summary of Audit Results
 ![Election_Results_Final.png](Election_Results_Final.png)
 
-The graphic above shows there were a total of 369,711 votes cast in the election.  The candidates were Charles Casper Stockham (85,213 votes, 23.0% of the vote), Diana DeGette (272,892 votes, 73.8% of the vote), and Raymon Anthony Doane.  The audit confirmed that Diana DeGette was the winner with 272,892 votes, taking 73.8% of the total vote.  The audit also revealed Denver County had the largest turnout with 306,055 votes, which represents 82.8% of the vote.
+The graphic above shows there were a total of 369,711 votes cast in the election.  
+
+List of Candidates:
+- Charles Casper Stockham (85,213 votes, 23.0% of the vote)
+- Diana DeGette (272,892 votes, 73.8% of the vote)
+- Raymon Anthony Doane (11,606 votes, 3.1% of the vote)
+
+The audit confirmed that Diana DeGette was the winner with 272,892 votes, taking 73.8% of the total vote.  The audit also revealed Denver County had the largest turnout with 306,055 votes, which represents 82.8% of the vote.
 
 ## Challenge Overview
 ## Challenge Summary

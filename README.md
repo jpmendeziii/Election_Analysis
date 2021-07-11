@@ -12,7 +12,7 @@ In this audit, the following objectives are listed below:
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
-## Summary
+## Election-Audit Results:
 
 ### Here are the Results of the Election Audit below:
 ![Election_Results_Final.png](Election_Results_Final.png)

@@ -27,5 +27,6 @@ List of Candidates:
 The audit confirmed that Diana DeGette was the winner with 272,892 votes, taking 73.8% of the total vote.  The audit also revealed Denver County had the largest turnout with 306,055 votes, which represents 82.8% of the vote.
 
 ## Challenge Overview
-## Challenge Summary
 
+## Challenge Summary
+The combination of tools utilized here is 

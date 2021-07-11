@@ -13,6 +13,8 @@
 ## Summary
 
 ### The analysis of the election show that:
+![analysis/election_analysis.txt](analysis/election_analysis.txt)
+
     • There were “x” votes cast in the election.
     • The candidates were:	
       o	Candidate 1

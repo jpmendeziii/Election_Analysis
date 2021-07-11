@@ -13,7 +13,7 @@
 ## Summary
 
 ### The analysis of the election show that:
-![analysis/election_analysis.txt](analysis/election_analysis.txt)
+![Election_Results_Final.png](Election_Results_Final.png)
 
     • There were “x” votes cast in the election.
     • The candidates were:	
